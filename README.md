@@ -1,9 +1,15 @@
-# Javascript Projects
+## Vanilla Javascript Projects
 
-#### Support
+These projects will help build my Javascript knowledge
+## Context
+I will be building small projects to practice core concepts in vanilla javascript, based on the tutorials by John Smilga
 
-Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoffee.com/johnsmilga)
+## Technologies used
+
+- HTML
+- CSS 
+- Javascript
 
 ## You can see all projects in action here
 
-[Projects](https://www.vanillajavascriptprojects.com/)
+`I will add this later`
